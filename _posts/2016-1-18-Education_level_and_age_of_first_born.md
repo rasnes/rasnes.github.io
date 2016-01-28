@@ -1,6 +1,6 @@
 ---
 title: Education level and age when first child is born
-layout: article
+layout: post
 comments: true
 abstract: Project report as part of the Coursera course Data Analysis and Statistical Inference.
 image:
